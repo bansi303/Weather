@@ -1,4 +1,4 @@
-![](/Covid-19/Resource/Animation/logo.gif)
+![](Weather/Assets.xcassets/AppIcon.appiconset/180.png) 
 
 # Weather
 An application that shows current weather data and forecasting data for next 5 days.
