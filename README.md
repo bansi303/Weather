@@ -4,7 +4,7 @@
 An application that shows current weather data and forecasting data for next 5 days.
 
 ## Overview
-This application fetch and shows the weather information such as current tempreture, Minimum and maximum tempreture and temreture of next 5 days ofr the user current location.
+This application fetches and shows the weather information such as current temperature, Minimum, and maximum temperature and temperature of the next 5 days of the user's current location.
 
 ## Archietecture
 MVVM ( Model View Viewmodel) for easy testing and debugging 
